@@ -1,1 +1,8 @@
-/* Add CSS Styling */
+.container p {
+    color: blue;
+    text-align: center;
+}
+
+.container {
+    background-color: yellow;
+}
